@@ -24,7 +24,7 @@ O sistema é baseado em:
 💡 O sistema foi projetado para ser **autossuficiente** e **independente de internet**, garantindo operação mesmo em cenários de emergência.
 
 
-> ## 🖼️ Esquema do circuito:
+## 🖼️ Esquema do circuito:
 ![Circuito Montado](Sensor%20de%20nivel%20de%20Agua.png)
 
 
@@ -174,9 +174,9 @@ void iniciarTrigger() {
 
 ⚠️ *Importante:* Para aplicações práticas (rios, bueiros, etc), é necessária uma nova calibração conforme o ambiente e o sensor usados.
 
-## 🎥 Vídeo Demonstrativo
+## 📽️ Demonstração em Vídeo
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/nRQA0Ai2mOw/0.jpg)](https://www.youtube.com/watch?v=nRQA0Ai2mOw)
 
-Assista à demonstração prática completa no vídeo abaixo:
 
 
 # 👥 Integrantes
