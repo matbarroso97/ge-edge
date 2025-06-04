@@ -25,9 +25,7 @@ O sistema é baseado em:
 
 
 > ## 🖼️ Esquema do circuito:
-
-
-
+![Circuito Montado](Sensor%20de%20nivel%20de%20Agua.png)
 
 
 ## 📦 Como Reproduzir
